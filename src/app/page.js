@@ -24,7 +24,7 @@ export default function Home() {
           </p>
         </div>
       </section>
-      <HoverVideo src="https://res.cloudinary.com/dket79msa/video/upload/v1726852684/test_rd41wv.webm" />
+      <HoverVideo src="https://res.cloudinary.com/dket79msa/video/upload/v1726856269/test_2_f9n8c2.mp4" />
       <section className="mt-30 p-[50px] flex justify-center">
         <div className="max-w-maxc0width margin-auto">
           <h2 className="text-center mt-8 mb-12 md:mb-2 text-3xl">
