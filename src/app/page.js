@@ -101,7 +101,7 @@ export default function Home() {
         }}
       >
         <div className="relative z-[1] max-w-maxc1width h-full mb-8 md:mb-0">
-          <h2 className="text-center mt-6 mb-2 text-3xl mb-12 md:mb-2">
+          <h2 className="text-center text-white mt-6 mb-2 text-3xl mb-12 md:mb-2">
             How We Construct Portfolios
           </h2>
           <div className="flex flex-col md:flex-column gap-8 p-0 md:p-6 text-center max-w-maxc0width margin-auto">

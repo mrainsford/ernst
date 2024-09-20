@@ -53,6 +53,7 @@ p {
   color: #484848;
 }
 
-.bg-customGray p {
+.bg-customGray p,
+.bg-customGray h4 {
   color: #fff;
 }
