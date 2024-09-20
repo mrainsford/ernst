@@ -69,7 +69,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <HoverVideo src="https://res.cloudinary.com/dket79msa/video/upload/v1726852787/book_btvnox.webm" />
+      <HoverVideo src="https://res.cloudinary.com/dket79msa/video/upload/v1726850008/15457101_ErnstAndCompany_June2020-2_1_dimby7.mp4" />
     </main>
   );
 }
