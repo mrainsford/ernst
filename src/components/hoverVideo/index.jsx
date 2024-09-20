@@ -46,7 +46,6 @@ export default function HoverVideo({ src }) {
   return (
     <div className="h-full w-full bg-[#000000]">
       <div data-vjs-player>
-        <script src="https://player.vimeo.com/api/player.js"></script>
         <video
           ref={videoRef}
           className="video-js vjs-default-skin vjs-theme-sea"
