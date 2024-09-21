@@ -142,9 +142,8 @@ export default function Home() {
               </p>
               <br />
               <p>
-                We invite you to check out all the material on our website. If
-                you have any questions, please send us an email or call the
-                office. We look forward to speaking with you.
+                If you have any questions, please send us an email, we look
+                forward to speaking with you.
               </p>
             </div>
           </div>

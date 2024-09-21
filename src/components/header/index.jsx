@@ -9,12 +9,14 @@ export const Header = () => (
       </Link>
     </div>
     <div className="flex justify-center align-center p-25px">
-      <Image
-        src="/b7b90d5e-f5a1-4859-8360-d3acbc3e530b.png"
-        width={300}
-        height={73}
-        alt="Logo"
-      />
+      <Link href="/">
+        <Image
+          src="/b7b90d5e-f5a1-4859-8360-d3acbc3e530b.png"
+          width={300}
+          height={73}
+          alt="Logo"
+        />
+      </Link>
     </div>
   </>
 );

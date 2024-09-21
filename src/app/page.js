@@ -31,28 +31,7 @@ export default function Home() {
             It&apos;s Time to Think Differently about Your Money
           </h2>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-12 p-0 md:p-6 md:mt-0">
-            <div>
-              <Image
-                src="/b7b88665-1e13-4b3f-afc0-57b6d18e9581.jpg"
-                alt="Image 1"
-                width={500}
-                height={380}
-                className="w-full"
-              />
-              <h2 className="text-center mt-4 mb-4 text-2xl">About Us</h2>
-              <p className="m-0 text-center">
-                Ernst & Co. Wealth Management, LLC is a boutique wealth
-                management firm with a focus on cultivating highly personal
-                relationships with clients and focusing on their individual
-                needs. Built on the cornerstones of Discipline, Patience, and
-                Conviction, Ernst & Co. offers a full suite of advisory
-                services, including wealth management and consulting, portfolio
-                & investment management as well as retirement and financial
-                planning.
-              </p>
-            </div>
-
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 p-0 md:p-6 md:mt-0">
             <div>
               <Image
                 src="/d08c1081-fefd-4dea-960a-e6a8cebb0df4.jpg"
